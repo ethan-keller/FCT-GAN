@@ -44,3 +44,7 @@ sides = [4, 8, 16, 24, 32, 64]
 # or even larger
 sides = [4, 8, 16, 24, 32, 64, 128]
 ```
+
+## Affiliation
+
+This research is part of the [Research Project](https://github.com/TU-Delft-CSE/Research-Project) coordinated by [TU Delft](https://github.com/TU-Delft-CSE)
